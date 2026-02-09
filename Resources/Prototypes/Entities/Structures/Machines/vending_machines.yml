@@ -431,7 +431,7 @@
     denyState: deny-unshaded
   - type: Sprite
     noRot: true
-    sprite: Structures/Machines/VendingMachines/laptop.rsi
+    sprite: _Maid/Structures/Machines/VendingMachines/cart.rsi #Maid
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]

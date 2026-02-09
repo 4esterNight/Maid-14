@@ -318,7 +318,7 @@ public sealed partial class AdminVerbSystem
             {
                 Text = hardElectrocuteName,
                 Category = VerbCategory.Smite,
-                Icon = new SpriteSpecifier.Rsi(new ("/Textures/Clothing/Hands/Gloves/Color/yellow.rsi"), "icon"),
+                Icon = new SpriteSpecifier.Rsi(new ("/Textures/_Maid/Clothing/Hands/Gloves/Color/yellow.rsi"), "icon"), 
                 Act = () =>
                 {
                     int damageToDeal;

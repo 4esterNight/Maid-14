@@ -21,7 +21,7 @@
     pack: SmartFridgeAds
   - type: Speech
   - type: Sprite
-    sprite: Structures/Machines/smartfridge.rsi
+    sprite: _Maid/Structures/Machines/smartfridge.rsi #Maid
     snapCardinals: true
     layers:
     - state: smartfridge

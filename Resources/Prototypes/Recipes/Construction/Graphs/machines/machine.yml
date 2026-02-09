@@ -73,10 +73,10 @@
             - !type:EntityAnchored
             - !type:MachineFrameComplete
               guideIconBoard:
-                sprite: Objects/Misc/module.rsi
+                sprite: _Maid/Objects/Misc/module.rsi #Maid
                 state: id_mod
               guideIconParts:
-                sprite: Objects/Misc/stock_parts.rsi
+                sprite: _Maid/Objects/Misc/stock_parts.rsi #Maid
                 state: scan_module
           steps:
             - tool: Screwing

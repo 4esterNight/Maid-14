@@ -941,7 +941,7 @@
   id: UplinkHeadsetEncryptionKey
   name: uplink-encryption-key-name
   description: uplink-encryption-key-desc
-  icon: { sprite: /Textures/Objects/Devices/encryption_keys.rsi, state: synd_label }
+  icon: { sprite: /Textures/_Maid/Objects/Devices/encryption_keys.rsi, state: synd_label } #Maid
   productEntity: EncryptionKeySyndie # One for the price of one, but cheaper
   cost:
     Telecrystal: 3 # goob
@@ -958,7 +958,7 @@
 #  id: UplinkBinaryTranslatorKey
 #  name: uplink-binary-translator-key-name
 #  description: uplink-binary-translator-key-desc
-#  icon: { sprite: /Textures/Objects/Devices/encryption_keys.rsi, state: ai_label }
+#  icon: { sprite: /Textures/_Maid/Objects/Devices/encryption_keys.rsi, state: ai_label } #Maid
 #  productEntity: EncryptionKeyBinarySyndicate
 #  cost:
 #    Telecrystal: 5 # goob
@@ -1528,7 +1528,7 @@
   id: UplinkRadioImplanter
   name: uplink-radio-implanter-name
   description: uplink-radio-implanter-desc
-  icon: { sprite: /Textures/Objects/Devices/encryption_keys.rsi, state: synd_label }
+  icon: { sprite: /Textures/_Maid/Objects/Devices/encryption_keys.rsi, state: synd_label } #Maid
   productEntity: RadioImplanter
   cost:
     Telecrystal: 7 # goob - Syndicate Radio Price Adjust

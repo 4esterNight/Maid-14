@@ -162,7 +162,7 @@
   id: EncryptionKey
   name: steal-target-groups-encryption-keys
   sprite:
-    sprite: Objects/Devices/encryption_keys.rsi
+    sprite: _Maid/Objects/Devices/encryption_keys.rsi #Maid
     state: crypt_gray
 
 - type: stealTargetGroup

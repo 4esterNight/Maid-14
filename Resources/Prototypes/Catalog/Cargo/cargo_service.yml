@@ -58,7 +58,7 @@
 - type: cargoProduct
   id: ServiceCleanerGrenades
   icon:
-    sprite: Objects/Weapons/Grenades/janitor.rsi
+    sprite: _Maid/Objects/Weapons/Grenades/janitor.rsi #Maid
     state: icon
   product: CrateServiceCleanerGrenades
   cost: 400

@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: 2020 FrostMando <68990565+FrostMando@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2020 Swept <sweptwastaken@protonmail.com>
-# SPDX-FileCopyrightText: 2020 Víctor Aguilera Puerto <zddm@outlook.es>
+# SPDX-FileCopyrightText: 2020 VГ­ctor Aguilera Puerto <zddm@outlook.es>
 # SPDX-FileCopyrightText: 2020 Ygg01 <daniel.fath7@gmail.com>
 # SPDX-FileCopyrightText: 2021 Elijahrane <60792108+Elijahrane@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2021 Mith-randalf <84274729+Mith-randalf@users.noreply.github.com>
@@ -86,8 +86,8 @@
 
 # SPDX-FileCopyrightText: 2020 FrostMando <68990565+FrostMando@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2020 Swept <sweptwastaken@protonmail.com>
-# SPDX-FileCopyrightText: 2020 Víctor Aguilera Puerto <6766154+Zumorica@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2020 Víctor Aguilera Puerto <zddm@outlook.es>
+# SPDX-FileCopyrightText: 2020 VГ­ctor Aguilera Puerto <6766154+Zumorica@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2020 VГ­ctor Aguilera Puerto <zddm@outlook.es>
 # SPDX-FileCopyrightText: 2020 Ygg01 <daniel.fath7@gmail.com>
 # SPDX-FileCopyrightText: 2021 DrSmugleaf <DrSmugleaf@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2021 Elijahrane <60792108+Elijahrane@users.noreply.github.com>
@@ -196,7 +196,7 @@
 # SPDX-FileCopyrightText: 2024 slarticodefast <161409025+slarticodefast@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2024 username <113782077+whateverusername0@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2024 whateverusername0 <whateveremail>
-# SPDX-FileCopyrightText: 2024 Арт <123451459+JustArt1m@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 РђСЂС‚ <123451459+JustArt1m@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
 # SPDX-FileCopyrightText: 2025 Aidenkrz <aiden@djkraz.com>
@@ -1069,9 +1069,9 @@
   description: A suit made by the cutting edge R&D department at Cybersun to be hyper resilient.
   components:
   - type: Sprite
-    sprite: _Maid/Clothing/OuterClothing/Hardsuits/cybersun.rsi
+    sprite: _Maid/Clothing/OuterClothing/Hardsuits/cybersun.rsi #Maid
   - type: Clothing
-    sprite: _Maid/Clothing/OuterClothing/Hardsuits/cybersun.rsi
+    sprite: _Maid/Clothing/OuterClothing/Hardsuits/cybersun.rsi #Maid
   - type: PressureProtection
     highPressureMultiplier: 0.2
     lowPressureMultiplier: 1000
@@ -1284,9 +1284,9 @@
   description: A protective hardsuit worn by the leader of an emergency response team. # Goob edit
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertleader.rsi
+    sprite: _Maid/Clothing/OuterClothing/Hardsuits/ERTSuits/ertleader.rsi #Maid
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertleader.rsi
+    sprite: _Maid/Clothing/OuterClothing/Hardsuits/ERTSuits/ertleader.rsi #Maid
   - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototypes:
       head: ClothingHeadHelmetHardsuitERTLeader
@@ -1314,9 +1314,9 @@
   description: A protective hardsuit worn by the engineers of an emergency response team. # Goob edit
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertengineer.rsi
+    sprite: _Maid/Clothing/OuterClothing/Hardsuits/ERTSuits/ertengineer.rsi #Maid
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertengineer.rsi
+    sprite: _Maid/Clothing/OuterClothing/Hardsuits/ERTSuits/ertengineer.rsi #Maid
   - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototypes:
       head: ClothingHeadHelmetHardsuitERTEngineer
@@ -1331,9 +1331,9 @@
   description: A protective hardsuit worn by the medics of an emergency response team. # Goob edit
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertmedical.rsi
+    sprite: _Maid/Clothing/OuterClothing/Hardsuits/ERTSuits/ertmedical.rsi #Maid
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertmedical.rsi
+    sprite: _Maid/Clothing/OuterClothing/Hardsuits/ERTSuits/ertmedical.rsi #Maid
   - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototypes:
       head: ClothingHeadHelmetHardsuitERTMedical
@@ -1346,9 +1346,9 @@
   description: A protective hardsuit worn by the security officers of an emergency response team. # Goob edit
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertsecurity.rsi
+    sprite: _Maid/Clothing/OuterClothing/Hardsuits/ERTSuits/ertsecurity.rsi #Maid
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertsecurity.rsi
+    sprite: _Maid/Clothing/OuterClothing/Hardsuits/ERTSuits/ertsecurity.rsi #Maid
   - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototypes:
       head: ClothingHeadHelmetHardsuitERTSecurity
@@ -1365,9 +1365,9 @@
   description: A protective hardsuit worn by the janitors of an emergency response team. # Goob edit
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertjanitor.rsi
+    sprite: _Maid/Clothing/OuterClothing/Hardsuits/ERTSuits/ertjanitor.rsi #Maid
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertjanitor.rsi
+    sprite: _Maid/Clothing/OuterClothing/Hardsuits/ERTSuits/ertjanitor.rsi #Maid
   - type: ToggleableClothing # Goobstation - Modsuits change
     clothingPrototypes:
       head: ClothingHeadHelmetHardsuitERTJanitor

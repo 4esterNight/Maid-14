@@ -43,7 +43,7 @@
   name: selectable-set-thief-breacher-name
   description: selectable-set-thief-breacher-description
   sprite:
-    sprite: Objects/Tools/jaws_of_life.rsi
+    sprite: _Maid/Objects/Tools/jaws_of_life.rsi #Maid
     state: jaws_pry
   content:
   - WelderIndustrialAdvanced
@@ -224,7 +224,7 @@
   name: selectable-set-syndicate-grenadier-name
   description: selectable-set-syndicate-grenadier-description
   sprite:
-    sprite: Objects/Weapons/Grenades/syndgrenade.rsi
+    sprite: _Maid/Objects/Weapons/Grenades/syndgrenade.rsi #Maid
     state: icon
   content:
   - ClothingBeltMilitaryRigGrenadierFilled

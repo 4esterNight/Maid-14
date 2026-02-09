@@ -349,9 +349,9 @@
   description: A suit that protects against minor chemical spills. Has an orange stripe on the shoulder.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_chem.rsi
+    sprite: _Maid/Clothing/OuterClothing/Coats/labcoat_chem.rsi #Maid
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_chem.rsi
+    sprite: _Maid/Clothing/OuterClothing/Coats/labcoat_chem.rsi #Maid
   - type: Armor
     coverage:
     - Chest

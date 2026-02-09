@@ -910,7 +910,7 @@
   id: UplinkSmokeImplanter
   name: uplink-smoke-implant-name
   description: uplink-smoke-implant-desc
-  icon: { sprite: /Textures/Objects/Weapons/Grenades/smoke.rsi, state: icon }
+  icon: { sprite: /Textures/_Maid/Objects/Weapons/Grenades/smoke.rsi, state: icon } #Maid
   productEntity: SmokeImplanter
   cost:
     Telecrystal: 10
@@ -956,7 +956,7 @@
   id: UplinkBinaryImplant
   name: uplink-binary-implant-name
   description: uplink-binary-implant-desc
-  icon: { sprite: /Textures/Objects/Devices/encryption_keys.rsi, state: ai_label }
+  icon: { sprite: /Textures/_Maid/Objects/Devices/encryption_keys.rsi, state: ai_label } #Maid
   productEntity: BinaryImplanter
   cost:
     Telecrystal: 5 # goob

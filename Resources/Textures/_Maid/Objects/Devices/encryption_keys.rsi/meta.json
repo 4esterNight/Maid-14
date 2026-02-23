@@ -8,6 +8,7 @@
   },
   "states": [
     {"name": "ai_label"},
+    {"name": "borg_label"},
     {"name": "crypt_gray"},
     {"name": "crypt_rusted"},
     {"name": "crypt_gold"},

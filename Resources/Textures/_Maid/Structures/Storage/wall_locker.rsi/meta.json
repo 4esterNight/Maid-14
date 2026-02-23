@@ -32,6 +32,8 @@
     { "name": "red_door" },
     { "name": "unlocked" },
     { "name": "welded" },
+    { "name": "n2" },
+    { "name": "n2_door" },
     { "name": "white_door" },
     { "name": "yellow_door" }
   ]

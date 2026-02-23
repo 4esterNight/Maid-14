@@ -134,6 +134,24 @@
             ]
         },
         {
+            "name": "conpipe-signaller",
+            "directions": 4,
+            "delays": [
+                [
+                    1.0
+                ],
+                [
+                    1.0
+                ],
+                [
+                    1.0
+                ],
+                [
+                    1.0
+                ]
+            ]
+        },
+        {
             "name": "conpipe-t",
             "directions": 4,
             "delays": [
@@ -207,6 +225,42 @@
         },
         {
             "name": "conpipe-x",
+            "directions": 4,
+            "delays": [
+                [
+                    1.0
+                ],
+                [
+                    1.0
+                ],
+                [
+                    1.0
+                ],
+                [
+                    1.0
+                ]
+            ]
+        },
+        {
+            "name": "conpipe-xf",
+            "directions": 4,
+            "delays": [
+                [
+                    1.0
+                ],
+                [
+                    1.0
+                ],
+                [
+                    1.0
+                ],
+                [
+                    1.0
+                ]
+            ]
+        },
+        {
+            "name": "pipe-x",
             "directions": 4,
             "delays": [
                 [

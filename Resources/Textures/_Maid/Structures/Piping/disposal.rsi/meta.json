@@ -188,24 +188,6 @@
             ]
         },
         {
-            "name": "conpipe-signaller",
-            "directions": 4,
-            "delays": [
-                [
-                    1.0
-                ],
-                [
-                    1.0
-                ],
-                [
-                    1.0
-                ],
-                [
-                    1.0
-                ]
-            ]
-        },
-        {
             "name": "conpipe-y",
             "directions": 4,
             "delays": [
